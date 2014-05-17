@@ -1,3 +1,6 @@
-@media (max-width: 650px) and (min-width:550px){
-	.theme_bg{background:url("../../common/images/theme_background.jpg") no-repeat scroll center -251px / 100% auto rgba(0, 0, 0, 0) !important;}
+@media (max-width: 1024px){
+	.white_wrap .app_feature_list label {
+    font-size: 19px;
+}
+	
 }
